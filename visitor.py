@@ -3,6 +3,7 @@
 #Daniel Sifton
 import time
 import csv
+import time
 from webdriverplus import WebDriver
 from itertools import *
 
