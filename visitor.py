@@ -1,7 +1,7 @@
 #utf-8
 #python 2.7.10
 #Daniel Sifton
-
+import time
 import csv
 from webdriverplus import WebDriver
 from itertools import *
