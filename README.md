@@ -32,7 +32,7 @@ Firefox is the default broswer for webdriverplus, if you want to use something e
 
 2: Package as a GUI
 
-3: Bundle as a executable
+3: Bundle as an executable
 
 4: Get it working with the library's digital signage
 
