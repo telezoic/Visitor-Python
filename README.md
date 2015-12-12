@@ -5,12 +5,12 @@ Load a .csv file of URLs, set the type of loop, set the length of time for each 
 
 ###What you need
 
-    import os
-    import wx
+
     import csv  
     import time
     from webdriverplus import WebDriver
     from itertools import *
+    
 
 Firefox is the default broswer for webdriverplus, if you want to use something else see the<a href="https://webdriver-plus.readthedocs.org/en/latest/browsers.html"> webdriverplus docs</a>
 
