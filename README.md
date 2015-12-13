@@ -1,4 +1,4 @@
-# Python-Visitor
+# Visitor-Python
 A URL driven slideshow in Python - an IR showcase tool for the screen or the wall during your next wine + cheese! 
 
 Load a .csv file of URLs, set the type of loop, set the length of time for each visit. 
