@@ -30,7 +30,7 @@ Firefox is the default broswer for webdriverplus, if you want to use something e
 
 1: ~~Write documentation~~
 
-2: Package as a GUI
+2: ~~Package as a GUI~~
 
 3: Bundle as an executable
 
