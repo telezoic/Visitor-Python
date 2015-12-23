@@ -14,6 +14,8 @@ Load a .csv file of URLs, set the type of loop, set the length of time for each 
 
 Firefox is the default broswer for webdriverplus, if you want to use something else see the<a href="https://webdriver-plus.readthedocs.org/en/latest/browsers.html"> webdriverplus docs</a>
 
+Webdriver plus requires an up to date version of <a href="http://www.seleniumhq.org/"> selenium </a> to function. Do it this way: `pip install -U selenium` . . . if you please.
+
 ###Usage
 
 1: Prep your .csv of URLs (no headers) and place it in the same folder as visitor.py
